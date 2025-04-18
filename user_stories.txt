@@ -1,4 +1,4 @@
-- 1 List Tasks
-- 2 Add a task
+- 1 List Tasks -> method in the contoller to handle the action
+- 2 Add a task -> method in the controller
 - 3 Mark as done
 - 4 Remove task
