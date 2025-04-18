@@ -28,7 +28,8 @@ class TaskRepository
   private
 
   def load_csv
-
+    # load the tasks from the CSV
+    # turn the row of strings back into an instance and push into @tasks array
   end
 
   def save_csv
